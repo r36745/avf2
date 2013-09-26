@@ -1,0 +1,52 @@
+/* Steven Roseman */
+/* 1309 */
+/* AVF Demo App Pt One */
+/* 9/12/13 */
+
+.divider-color{
+    color: red;
+    height: 25px;
+}
+#myBeer{
+    padding-top: 7%;
+    padding-left: 48%;
+    font-family: 'Chalkboard SE';
+    font-size: 10px;
+}
+#myBar{
+     padding-top: 7%;
+    padding-left: 48%;
+    font-family: 'Chalkboard SE';
+    font-size: 10px;
+}
+
+#bSocial{
+     padding-top: 7%;
+    padding-left: 48%;
+    font-family: 'Chalkboard SE';
+    font-size: 10px;
+}
+#domestic{
+    margin: 1%;
+    font-size: 10px;
+}
+#foreign{
+    margin: 1%;
+     font-size: 10px;
+}
+#walkable{
+    margin: 1%;
+     font-size: 10px;
+}
+#tRide{
+    margin: 1%;
+     font-size: 10px;
+}
+#bPix{
+    margin: 2%;
+     font-size: 10px;
+}
+#mLocale{
+    margin: 2%;
+     font-size: 10px;
+}
